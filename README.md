@@ -120,7 +120,7 @@ Dataset used: [Food-101 Dataset](https://www.kaggle.com/dansbecker/food-101)
 ## 👨‍💻 Author
 
 * **Saloni Dhiman**
-* 💼 B.Tech CSE | AI/ML & Web Development Enthusiast
+* 💼 B.Tech CSE 
 
 ---
 
